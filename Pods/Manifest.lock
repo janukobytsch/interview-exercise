@@ -1,0 +1,13 @@
+PODS:
+  - Nuke (1.4.0)
+  - ObjectMapper (1.1.5)
+
+DEPENDENCIES:
+  - Nuke (= 1.4.0)
+  - ObjectMapper (= 1.1.5)
+
+SPEC CHECKSUMS:
+  Nuke: 4b2b4961b0feab88c6fa169409f0e30134dbd8e4
+  ObjectMapper: 528b1a6677a6acac7747edd508576983e76a9148
+
+COCOAPODS: 0.39.0
